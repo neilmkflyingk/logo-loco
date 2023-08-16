@@ -1,0 +1,30 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "Node.js command-line app that generates logos.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilmkflyingk/logo-loco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neilmkflyingk/logo-loco/issues"
+  },
+  "homepage": "https://github.com/neilmkflyingk/logo-loco#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
